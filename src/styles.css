@@ -8,4 +8,12 @@ html {
   box-sizing: inherit;
 }
 
+.editInput {
+  display: none;
+}
+
+.editInputActive {
+  display: block;
+}
+
 
